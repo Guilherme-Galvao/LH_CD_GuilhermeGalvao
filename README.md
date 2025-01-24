@@ -12,5 +12,5 @@ Modelagem Preditiva: Construir um modelo para prever o preço de aluguel com bas
 Insights: Responder a perguntas de negócios relacionadas ao mercado imobiliário e escolha de modelo para análise.
 Tecnologias e Ferramentas:
 Linguagem: Python
-Bibliotecas principais: pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, joblib
+Bibliotecas principais: pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, joblib.
 Ambiente de desenvolvimento: Jupyter Notebook
